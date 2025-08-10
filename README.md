@@ -25,7 +25,7 @@ Before you begin, ensure you have the following installed:
 ## Setup Instructions in Windows
 ### 1. Clone the Repository (Recommended)
 ```bash
-git clone https://github.com/kuldeepkrjha/rest-grpc-demo.git
+git clone https://github.com/kuldeepkrjha/Rest-Rpc-demo.git
 cd rest-grpc-demo
 ```
 ### 2. Create Virtual Environment
