@@ -22,7 +22,7 @@ Before you begin, ensure you have the following installed:
    - Verify installation: `python --version` or `python3 --version`
 2. **Requirements.txt** (Recommended):
    - step to install `pip install -r requirements.txt`
-## Setup Instructions
+## Setup Instructions in Windows
 ### 1. Clone the Repository (Recommended)
 ```bash
 git clone https://github.com/kuldeepkrjha/rest-grpc-demo.git
