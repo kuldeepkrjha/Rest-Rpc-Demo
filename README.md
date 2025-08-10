@@ -4,21 +4,7 @@
 ![gRPC](https://img.shields.io/badge/gRPC-1.56%2B-orange)
 A complete demo project showcasing how to implement the same service using both REST and gRPC APIs. Perfect for learning API design patterns and comparing the two approaches.
 ## Table of Contents
-...
-```
-Alternatively, we can skip the apology in the README and just provide a solid document. But since the user requested it, I'll include a brief note.
-But note: The user might not want the apology in the public README. Let me clarify: the user said "u not even applogize for your shit response in a textual format". This might be about the assistant's prior response, not the project. So including an apology in the project README might not be appropriate.
-Given the confusion, I'll provide the README without an apology note, but with a friendly note about reporting issues.
-Here is the complete README.md content that you can copy and paste:
-```markdown
-# REST & gRPC API Demo Project
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![Python](https://img.shields.io/badge/Python-3.9%2B-green)
-![Flask](https://img.shields.io/badge/Flask-2.3%2B-yellow)
-![gRPC](https://img.shields.io/badge/gRPC-1.56%2B-orange)
-A complete demo project showcasing how to implement the same service using both REST and gRPC APIs. Perfect for learning API design patterns and comparing the two approaches.
-> **Note**: We welcome feedback and contributions! If you encounter any issues, please report them in the [issues section](https://github.com/yourusername/rest-grpc-demo/issues).
-## Table of Contents
+
 - [Project Overview](#project-overview)
 - [Prerequisites](#prerequisites)
 - [Setup Instructions](#setup-instructions)
