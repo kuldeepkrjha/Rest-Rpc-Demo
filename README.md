@@ -3,19 +3,7 @@
 ![Flask](https://img.shields.io/badge/Flask-2.3%2B-yellow)
 ![gRPC](https://img.shields.io/badge/gRPC-1.56%2B-orange)
 A complete demo project showcasing how to implement the same service using both REST and gRPC APIs. Perfect for learning API design patterns and comparing the two approaches.
-## Table of Contents
 
-- [Project Overview](#project-overview)
-- [Prerequisites](#prerequisites)
-- [Setup Instructions](#setup-instructions)
-- [Project Structure](#project-structure)
-- [Running the Services](#running-the-services)
-- [Testing the APIs](#testing-the-apis)
-- [Understanding the Differences](#understanding-the-differences)
-- [Extending the Project](#extending-the-project)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
 ## Project Overview
 This project demonstrates how to implement the same service using two different API paradigms:
 - **REST API**: Using Flask with JSON over HTTP/1.1
@@ -32,13 +20,12 @@ Before you begin, ensure you have the following installed:
 1. **Python 3.9 or higher**:
    - Download from [python.org](https://www.python.org/downloads/)
    - Verify installation: `python --version` or `python3 --version`
-2. **Git** (optional but recommended):
-   - Download from [git-scm.com](https://git-scm.com/downloads)
-   - Verify installation: `git --version`
+2. **Requirements.txt** (Recommended):
+   - step to install `pip install -r requirements.txt`
 ## Setup Instructions
 ### 1. Clone the Repository (Recommended)
 ```bash
-git clone https://github.com/yourusername/rest-grpc-demo.git
+git clone https://github.com/kuldeepkrjha/rest-grpc-demo.git
 cd rest-grpc-demo
 ```
 ### 2. Create Virtual Environment
@@ -52,7 +39,7 @@ source venv/bin/activate
 ```
 ### 3. Install Dependencies
 ```bash
-pip install flask grpcio grpcio-tools
+pip install -r requirements.txt
 ```
 ### 4. Generate gRPC Protocol Buffer Files
 ```bash
